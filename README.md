@@ -1,8 +1,8 @@
-# Secure Login System – Web-Based Network Security Project
+# Secure Login System – Web-Based Secure Voting System Project
 
 ## Overview
 
-This project is a web-based secure login system designed with strong network security practices. It focuses on safeguarding user authentication against common attack vectors such as SQL injection, brute-force attacks, and insecure password storage.
+This project is a web-based secure login system designed with strong security practices. It focuses on safeguarding user authentication against common attack vectors such as SQL injection, brute-force attacks, and insecure password storage.
 
 ## Features
 
